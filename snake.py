@@ -39,12 +39,9 @@ def game_loop():
     y = display_width / 2
 
     score = 0
-    # ?
 
     snake = []
     snake_length = 1
-
-    # ?
  
     x_new = y_new = 0   # aditional coordinates used to remember last coordinates
 
